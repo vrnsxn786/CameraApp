@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Camera App</string>
+
+    <string name="camera_btn_height">70dp</string>
+    <string name="camera_btn_width">70dp</string>
+
+</resources>
